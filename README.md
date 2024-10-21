@@ -6,4 +6,4 @@ simulated using LTSpice software. Utilizing a 0.5-micron technology on the C5 pr
 and following MOSIS design rules. Simulations in LTSpice confirm the expected logic 
 behavior, validating the effectiveness of the CMOS layout design process
 
-[Sequence Detectr Final Report VLSI.pdf](https://github.com/user-attachments/files/17466313/Sequence.Detectr.Final.Report.VLSI.pdf)
+[Sequence Detector Final Report VLSI.pdf](https://github.com/user-attachments/files/17466332/Sequence.Detector.Final.Report.VLSI.pdf)
